@@ -21,3 +21,7 @@ spring:
     init:
       mode: always
       schema-locations: "classpath:postgis_extension.sql"
+
+staybooking:
+  gcs:
+    bucket: serina-staybooking-bucket
