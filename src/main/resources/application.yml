@@ -25,3 +25,5 @@ spring:
 staybooking:
   gcs:
     bucket: serina-staybooking-bucket
+  geocoding:
+    key: AIzaSyAdPegxH1mK4kZHbchKkVmEPls6HieW-p4
