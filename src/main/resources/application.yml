@@ -27,3 +27,5 @@ staybooking:
     bucket: serina-staybooking-bucket
   geocoding:
     key: AIzaSyAdPegxH1mK4kZHbchKkVmEPls6HieW-p4
+  jwt:
+    secret-key: hYW3L6I3gPpEUbtU+17FEHRYJuc8uLYHaLLsuzzyKn4=
